@@ -1,0 +1,13 @@
+{
+  "name": "easy-graphql-server",
+  "version": "1.0.0",
+  "description": "use express and postgraphile to easily create a graphql server connected to a postgresql db",
+  "main": "server.js",
+  "author": "Brock Balducci",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "postgraphile": "^4.12.8"
+  }
+}
