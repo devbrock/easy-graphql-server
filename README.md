@@ -3,13 +3,13 @@
 ---
 
 ## Using: 
-- [express]("https://expressjs.com/")
-- [postgraphile]("https://www.graphile.org/postgraphile/")
-- [postgresql]("https://www.postgresql.org/")
+- [express](https://expressjs.com/)
+- [postgraphile](https://www.graphile.org/postgraphile/)
+- [postgresql](https://www.postgresql.org/)
 
 ## Notes
 
-To make this even easier you can run the database in a [docker container]("https://hub.docker.com/_/postgres") using the following commands
+To make this even easier you can run the database in a [docker container](https://hub.docker.com/_/postgres) using the following commands
 
 ```bash
 
